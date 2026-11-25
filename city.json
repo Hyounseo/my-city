@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "강남구",
+    "description": "사찰과 카페, 도서관이 있는 곳",
+    "img_src": "https://raw.githubusercontent.com/Hyounseo/MyCity/main/district_gangnam.png",
+    "spots": [
+      {
+        "id": 1,
+        "name": "봉은사",
+        "category": "산책",
+        "description": "빌딩 숲 한가운데에서 조용히 걸을 수 있는 도심 속 사찰이에요.",
+        "address": "서울 강남구",
+        "tip": "이른 아침에 가면 더 한적하게 둘러볼 수 있어요.",
+        "img_src": "https://raw.githubusercontent.com/Hyounseo/MyCity/main/spot_bongeunsa.png"
+      },
+      {
+        "id": 2,
+        "name": "베러댄커피",
+        "category": "카페",
+        "description": "작업이나 수다를 나누며 잠시 쉬어 가기 좋은 동네 카페예요.",
+        "address": "서울 강남구",
+        "tip": "영업 08:00 - 21:00",
+        "img_src": "https://raw.githubusercontent.com/Hyounseo/MyCity/main/spot_cafe.png"
+      },
+      {
+        "id": 3,
+        "name": "별마당 도서관",
+        "category": "도서관",
+        "description": "높은 책장이 길게 이어진 스타필드 안의 열린 도서관이에요.",
+        "address": "서울 강남구",
+        "tip": "쇼핑 전후에 잠깐 들러 책을 구경하기 좋아요.",
+        "img_src": "https://raw.githubusercontent.com/Hyounseo/MyCity/main/spot_starfield.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "용산구",
+    "description": "쇼핑과 전망, 캠퍼스 산책이 있는 곳",
+    "img_src": "https://raw.githubusercontent.com/Hyounseo/MyCity/main/district_yongsan.png",
+    "spots": [
+      {
+        "id": 4,
+        "name": "아이파크몰",
+        "category": "쇼핑",
+        "description": "쇼핑과 식사, 영화까지 한곳에서 즐길 수 있는 복합 쇼핑몰이에요.",
+        "address": "서울 용산구",
+        "tip": "영업 10:30 - 20:30",
+        "img_src": "https://raw.githubusercontent.com/Hyounseo/MyCity/main/spot_iparkmall.png"
+      },
+      {
+        "id": 5,
+        "name": "남산서울타워",
+        "category": "전망",
+        "description": "서울 시내를 한눈에 내려다볼 수 있는 전망 명소예요.",
+        "address": "서울 용산구",
+        "tip": "해 질 무렵에 가면 노을과 야경을 함께 볼 수 있어요.",
+        "img_src": "https://raw.githubusercontent.com/Hyounseo/MyCity/main/spot_namsan.png"
+      },
+      {
+        "id": 6,
+        "name": "숙명여자대학교",
+        "category": "캠퍼스 산책",
+        "description": "캠퍼스를 따라 걸으며 쉬어 갈 수 있는 대학 캠퍼스예요.",
+        "address": "서울 용산구",
+        "tip": "방문 전에 외부인 출입이 가능한지 확인하세요.",
+        "img_src": "https://raw.githubusercontent.com/Hyounseo/MyCity/main/spot_university.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "마포구",
+    "description": "시장과 거리 공연, 도서관이 있는 곳",
+    "img_src": "https://raw.githubusercontent.com/Hyounseo/MyCity/main/district_mapo.png",
+    "spots": [
+      {
+        "id": 7,
+        "name": "망원시장",
+        "category": "시장·먹거리",
+        "description": "다양한 먹거리를 맛볼 수 있는 동네 전통시장이에요.",
+        "address": "서울 마포구",
+        "tip": "간식을 하나씩 사 먹으며 구경하기 좋아요.",
+        "img_src": "https://raw.githubusercontent.com/Hyounseo/MyCity/main/spot_mangwon.png"
+      },
+      {
+        "id": 8,
+        "name": "홍대 걷고싶은거리",
+        "category": "거리 구경",
+        "description": "버스킹과 상점이 이어지는 활기찬 거리예요.",
+        "address": "서울 마포구",
+        "tip": "저녁 시간대에 공연을 구경하기 좋아요.",
+        "img_src": "https://raw.githubusercontent.com/Hyounseo/MyCity/main/spot_hongdae.png"
+      },
+      {
+        "id": 9,
+        "name": "마포 중앙 도서관",
+        "category": "도서관",
+        "description": "조용히 책을 읽거나 공부하기 좋은 동네 도서관이에요.",
+        "address": "서울 마포구",
+        "tip": "이용 시간과 휴관일을 미리 확인하고 가세요.",
+        "img_src": "https://raw.githubusercontent.com/Hyounseo/MyCity/main/spot_library.png"
+      }
+    ]
+  }
+]
